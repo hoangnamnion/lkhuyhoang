@@ -3,20 +3,20 @@
 <plist version="1.0">
   <dict>
     <key>PayloadDisplayName</key>
-    <string>Vũ Tuân - DNS</string>
+    <string>HUY HOANG - DNS</string>
     <key>PayloadDescription</key>
     <string> Chức Năng : 
 ✔️ Bảo Vệ Không Mất Locket Gold 
-_Vũ Tuân_
+_HUY HOANG_
     </string>
     <key>PayloadIdentifier</key>
-    <string>io.nextdns.c6e282.profile</string>
+    <string>io.nextdns.37c8cf.profile</string>
     <key>PayloadScope</key>
     <string>System</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.c6e282</string>
+    <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.37c8cf</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadContent</key>
@@ -27,7 +27,7 @@ _Vũ Tuân_
           <key>DNSProtocol</key>
           <string>HTTPS</string>
           <key>ServerURL</key>
-          <string>https://apple.dns.nextdns.io/c6e282</string>
+          <string>https://apple.dns.nextdns.io/37c8cf</string>
         </dict>
         <key>OnDemandRules</key>
         <array>
@@ -59,11 +59,11 @@ _Vũ Tuân_
         <key>PayloadType</key>
         <string>com.apple.dnsSettings.managed</string>
         <key>PayloadIdentifier</key>
-        <string>io.nextdns.c6e282.profile.dnsSettings.managed</string>
+        <string>io.nextdns.37c8cf.profile.dnsSettings.managed</string>
         <key>PayloadUUID</key>
-        <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.c6e282.dnsSettings.managed</string>
+        <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.37c8cf.dnsSettings.managed</string>
         <key>PayloadDisplayName</key>
-        <string>LOCKET GOLD VŨ TUÂN</string>
+        <string>LOCKET GOLD HUY HOANG</string>
         <key>PayloadOrganization</key>
         <string>On</string>
         <key>PayloadVersion</key>
